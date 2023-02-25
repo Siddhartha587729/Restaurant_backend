@@ -1,2 +1,2 @@
 # Restaurant_backend
-This is a restaurant web application with complete backend integrated.
+This is a restaurant web application with complete backend integrated with MERN stack.
